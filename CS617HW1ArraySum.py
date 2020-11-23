@@ -23,6 +23,6 @@ def array_sum_recursive(A,s,l,r):
         return True
 
 
-A=[0,0,5,7,8,9,10]
+A=[0,0,5,7,8,9,11]
 #print(array_sum(A,0))
 print(array_sum_recursive(A,0,0,len(A)-1))

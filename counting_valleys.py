@@ -11,4 +11,4 @@ def countingValleys(n, s):
             count_valley=count_valley+1
     print(count_valley)
 
-countingValleys(8,'UDDDUDUUDDUUUUUU')
+countingValleys(8,'UDDDUDUUDDUU')
